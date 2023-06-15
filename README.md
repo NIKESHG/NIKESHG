@@ -1,4 +1,4 @@
-![MasterHead](https://www.simpleimageresizer.com/_uploads/photos/d90efc8c/2_2000x600.jpg)
+![logo](https://github.com/NIKESHG/github-banner/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 👋, I'm Nikesh Gotal</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="300" src="https://www.onlinemanipal.com/wp-content/uploads/2022/09/Data-Science-Life-cycle-1024x1022.png">
